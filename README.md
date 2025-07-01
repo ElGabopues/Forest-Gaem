@@ -1,4 +1,4 @@
-# In the Deep of the Forest
+# In the Depth of the Forest
 
 ## Descripción
 
@@ -50,26 +50,40 @@ El entorno es silencioso y cubierto de niebla. Un muelle deteriorado y un barco 
 
 Puedes jugar la experiencia en Roblox o descargar Roblox Studio para ejecutarla localmente.
 
+### Crear una cuenta de Roblox
+
+Si no tienes una cuenta, sigue estos pasos:
+
+1. Visita [roblox](https://www.roblox.com).
+2. Haz clic en **Registrarse**.
+3. Completa el formulario con tu fecha de nacimiento, nombre de usuario, contraseña y género (opcional).
+4. Haz clic en **Registrarse** para crear tu cuenta gratuita.
+5. Verifica tu correo electrónico si se solicita.
+
 ### Jugar en Roblox
 
-Enlace directo al juego:
+Enlace directo al la página del juego:
 [In the Depth of the Forest](https://www.roblox.com/games/6035746293/In-the-Depth-of-the-Forest)
 
 Pasos:
 
-1. Crea una cuenta gratuita en [Roblox.com](https://www.roblox.com) o inicia sesión.
-2. Abre el enlace directo.
-3. Haz clic en **Jugar**.
+1. Inicia sesión en tu cuenta de Roblox.
+2. Abre el enlace directo al juego.
+3. Haz clic en **Jugar** para unirte.
 
 ### Ejecutar en Roblox Studio
 
-Si deseas probar o desarrollar el juego localmente:
+Si deseas ejecutar el juego localmente:
 
-1. Descarga Roblox Studio:
-   [https://www.roblox.com/create](https://www.roblox.com/create)
-2. Instálalo e inicia sesión con tu cuenta.
-3. Abre el archivo del proyecto (.rbxl) en Roblox Studio.
-4. Haz clic en **Jugar** para ejecutarlo en tu PC.
+1. Descarga [Roblox Studio](https://www.roblox.com/create)
+2. Instala Roblox Studio e inicia sesión con tu cuenta.
+3. Descarga el archivo del proyecto:
+   `In the Depth of the Forest.rbxl`
+4. Abre Roblox Studio.
+5. En el menú principal, selecciona **Archivo > Abrir**.
+6. Busca y abre `In the Depth of the Forest.rbxl`.
+7. Haz clic en **Jugar** para ejecutarlo en tu PC.
+
 
 ## Créditos
 
